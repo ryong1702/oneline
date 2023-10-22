@@ -1,0 +1,7 @@
+venv
+sample
+logs
+.git
+.vscode
+.env
+__pycache__

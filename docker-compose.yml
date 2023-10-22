@@ -1,0 +1,11 @@
+version: "3.4"
+
+services:
+    oneline:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        image: oneline.org/oneline:v1.0
+        container_name: oneline
+        ports:
+            - 8000:8000
