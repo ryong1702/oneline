@@ -10,10 +10,6 @@
 
 
 # oneline
-https://www.dropbox.com/scl/fi/004nqp5481rso141r5fts/OneLine-Edgar-Project-Description.paper?dl=0&rlkey=95lfoig3vf37y7spu1syeymh9
-
-Example - For analyzing EDGAR filing data (Python)
-
 - 원하는 기업의 filing을 Pandas DataFrame으로 불러와 분석에 사용 
 - 지원 하는 기업 : Nasdaq 5239개, NYSE 4099개 기업 (2022.07.04 기준)
 - 지원 하는 파일: 10-K, 10-Q
